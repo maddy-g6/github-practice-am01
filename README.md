@@ -101,3 +101,4 @@ Learning to use Github for your Portfolio Website Assignment
 |69|Advait Jayant  | 9     | advaitjk |<https://github.com/advaitjk/my_website>   |<https://advait-jayant.netlify.app/>  |2020-09-15 |
 |70|Jason-Lee Lubner  | 14     | Jlubner |https://github.com/Jlubner/my_website.git  |<https://jasonlubnerportfolio.netlify.app> |2020-09-15 |
 |71|Keshav Asokan | 1 | keshavasokan |https://github.com/keshavasokan/my_website.git  |<https://keshavasokan.netlify.app> |2020-09-15 |
+|72|Maddy Goodman | 4 | maddy-g6 |https://github.com/maddy-g6/my_website.git  |<https://maddygoodman-portfolio.netlify.app> |2020-09-15 |
