@@ -107,3 +107,4 @@ Learning to use Github for your Portfolio Website Assignment
 |75|Rasul Rasulov |9| rasul21 |74| https://github.com/Rasul21/my_website |<https://rasul-portfolio.netlify.app> | 2020-09-15|
 |76|Marie Cordes   | 14     | mariecordes |<https://github.com/mariecordes/mywebsite>   |<https://mariecordes.netlify.app/>        |2020-09-16 |
 |76|Damestoy Hug-Paul |7| hugodamestoy| https://github.com/hugodamestoy/my_website_2 |https://app.netlify.com/sites/hugo-website-2/overview | 2020-09-18|
+|77|Madeline Goodman |4| maddy-g6 | https://github.com/maddy-g6/my_website | <https://maddygoodman-portfolio.netlify.app/> | 2020-09-19 | 
