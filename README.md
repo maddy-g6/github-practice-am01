@@ -109,3 +109,4 @@ Learning to use Github for your Portfolio Website Assignment
 |76|Damestoy Hug-Paul |7| hugodamestoy| https://github.com/hugodamestoy/my_website_2 |https://app.netlify.com/sites/hugo-website-2/overview | 2020-09-18|
 |77|Abhinav Bhardwaj |11| Moriarty-007 | <https://github.com/Moriarty-007/my_website> | <https://abhardwaj-portfolio.netlify.app/> | 2020-09-20|
 |78|Nitya Chopra |13| nitya-chopra | <https://github.com/nitya-chopra/my-portfolio-website> | <https://nitya-chopra.netlify.app/> | 2020-09-20 |
+|79|Rick van der Linden | 8 | RickLinden | <https://github.com/RickLinden/my_website> | <https://rickvdlinden.netlify.app/> |2 /09/20 |
